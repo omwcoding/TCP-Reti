@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ClientTCP.c
- Author      : Balde Omar, De Santis Samantha
+ Author      : Balde Omar
  Version     :
  Copyright   : Free for educational purposes
  Description : Source file for ClientTCP
